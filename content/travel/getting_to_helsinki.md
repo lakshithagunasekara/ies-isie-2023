@@ -1,16 +1,32 @@
 +++
-title = "Tutorials and Workshops"
+title = "Getting to Helsinki"
 weight = 4
 +++
 
-ISIE 2023 will use the new IES paper submission system. Please read the submission instructions below. Paper format and templates are also found further down the page.
+Helsinki is well-connected to the rest of the world. You can easily reach it by plane, ferry or train.
 
-Paper submission site instructions:
-* You will need to register in order to use the system.
-* After registering, wait for the confirmation email and verify your email address.
-* If you don't get the confirmation email or have some problem with your submission, please contact conferences@ieee-ies.org.
-* When submitting papers in the submission system, please select the correct track:
-    * TT01 ... TT13 – technical tracks (regular papers)
-    * WIP TT01 … WIP TT13 – technical tracks (work-in-progress papers)
-    * SS01 … SS14 – special sessions (regular papers)
-    * WIP SS01 … WIP SS14 – special sessions (work-in-progress papers)
+### Reaching the Conference Venue
+Please refer to our dedicated Conference Venue page.
+
+### Reach Helsinki by plane
+Helsinki can be reached by plane smoothly from everywhere.
+
+Helsinki Airport consistently ranks among the best airports in the world. It serves around 350 flights a day, including direct flights to 140 destinations and 25 direct flights a week to China.
+
+The airport is located 18 km from downtown Helsinki, and 22km from Aalto University campus. A frequent train link connects the airport to downtown Helsinki (Helsinki Central Station) in about 35 minutes. More information about local transport on our conference venue page.
+
+You can find the list of Airlines operating at Helsinki Airport on the Helsinki airport page.
+
+### Helsinki Airport
+Reach Helsinki by ferry
+There are daily ferry services to Helsinki from Tallinn, Estonia (Tallink Silja Line, Viking Line, and Eckerö Line), from Stockholm, Sweden (Tallink Silja Line and Viking Line), and from Germany (Finnlines).
+
+All ferry companies also offer the possibility to take a car with you.
+
+Information on the different passenger terminals can be found on the Port of Helsinki website.
+
+### Helsinki Ferries
+Reach Helsinki by train
+There are excellent train connections to Helsinki from all major towns in Finland as well as Lapland.
+
+The Central Railway Station is located in the center of the city, and is an architectural landmark in itself.
