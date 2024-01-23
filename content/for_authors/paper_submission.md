@@ -1,5 +1,4 @@
 +++
-tags = ["config"]
 title = "Paper Submissions"
 weight = 20
 +++

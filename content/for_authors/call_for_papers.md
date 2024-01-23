@@ -1,5 +1,4 @@
 +++
-categories = ["custom", "theming"]
 title = "Call For Papers"
 weight = 24
 +++
