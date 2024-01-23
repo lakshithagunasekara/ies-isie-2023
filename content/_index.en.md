@@ -3,10 +3,10 @@ archetype = "home"
 title = "ISIE 2024"
 +++
 
-![Image of the Relearn theme in light and dark mode on phone, tablet and desktop](banner0.jpg?width=100%&height=100%)
-
-
 # IEEE Conferernce on Industrial Electronics 2024
+
+{{< slideshow path="images/slideshow" largeText="Aalto University, Helsinki-Espoo, Finland" smallText="June 19th - June 21st, 2023" >}}
+
 
 ## Welcome to ISIE 2023
 
