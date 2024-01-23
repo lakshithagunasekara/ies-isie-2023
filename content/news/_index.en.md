@@ -34,3 +34,10 @@ Call for workshop proposals is now available. More info
 Announced on Nov 1, 2022
 {{% /notice %}}
 
+{{< card title="Topics of Interest" >}}
+<ul class="card-text">
+    <li>Information Technology in Automation</li>
+    <li>Industrial Communication Technologies and Systems</li>
+    <!-- Add more list items as needed -->
+</ul>
+{{< /card >}}
