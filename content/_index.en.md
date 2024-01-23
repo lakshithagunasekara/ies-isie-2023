@@ -33,4 +33,4 @@ Financial support of up to US$1500 will be available for attending ISIE2023 thro
 | Final Paper Submission Deadline (All)    | Apr 28, 2023 |
 | Tutorial Proposal Deadline  | Dec 1, 2022 |
 | Tutorial Acceptance Notification | Dec 15, 2022 |
-| Author Registration Deadline    | Feb 28, 2023 |
+| Author Registration Deadline    | <s>Feb 28, 2023</s><br><span style="color: red;">May 12, 2023 (extended)</span> |
