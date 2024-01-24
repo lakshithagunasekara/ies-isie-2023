@@ -1,9 +1,8 @@
 +++
 archetype = "home"
-title = "ISIE 2024"
+title = "ISIE 2024 - IEEE Conferernce on Industrial Electronics 2024"
 +++
 
-# IEEE Conferernce on Industrial Electronics 2024
 
 {{< slideshow path="images/slideshow" largeText="Aalto University, Helsinki-Espoo, Finland" smallText="June 19th - June 21st, 2023" >}}
 
