@@ -1,6 +1,6 @@
 +++
 title = "Organizing Committee"
-weight = 5
+weight = 1
 menuTitle = "Committee"
 
 +++

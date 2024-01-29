@@ -141,7 +141,7 @@ disableBreadcrumb = false
 # Default: false
 # If the navigation buttons are hidden, also the keyboard shortcuts are
 # disabled.
-disableNextPrev = false
+disableNextPrev = true
 
 # The URL prefix to edit a page.
 # Default: not set
@@ -150,7 +150,7 @@ disableNextPrev = false
 # relative file path of a the displayed page. The URL must end with a `/`.
 # This is useful if you wnat to give the opportunity for people to create merge
 #  request for your content.
-editURL = "https://github.com/lakshithagunasekara/ies-isie-2023/blob/main/content/"
+# editURL = "https://github.com/lakshithagunasekara/ies-isie-2023/blob/main/content/"
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Menu

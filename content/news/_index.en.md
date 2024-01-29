@@ -1,7 +1,6 @@
 +++
 title = "News and Announcements"
 weight = 4
-pre= "4. "
 menuTitle = "News"
 
 +++

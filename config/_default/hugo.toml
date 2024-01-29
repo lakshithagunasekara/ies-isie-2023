@@ -30,7 +30,7 @@ defaultContentLanguage = "en"
 # disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "IEEE conferernce for Industrial Electronics 2024"
+title = "IEEE conferences for Industrial Electronics Society 2024"
 
 [outputs]
   # add JSON to the home to support Lunr search; This is a mandatory setting
@@ -78,7 +78,7 @@ title = "IEEE conferernce for Industrial Electronics 2024"
 # your project
 [languages]
   [languages.en]
-    title = "Webiste for IEEE conferernce for Industrial Electronics 2024"
+    title = "Webiste for IEEE conferences for Industrial Electronics Society 2024"
     weight = 1
     languageName = "English"
     # Language dependend settings:
@@ -87,31 +87,31 @@ title = "IEEE conferernce for Industrial Electronics 2024"
     [languages.en.params]
       landingPageName = "<i class='fas fa-home'></i> Home"
 
-  [[languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-    identifier = "ds"
-    url = "https://github.com/lakshithagunasekara/hugo-theme-ies-con"
-    weight = 10
+#  [[languages.en.menu.shortcuts]]
+#    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+#    identifier = "ds"
+#    url = "https://github.com/lakshithagunasekara/hugo-theme-ies-con"
+#    weight = 10
 
-  [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-    pageRef = "showcase/"
-    weight = 20
+#  [[languages.en.menu.shortcuts]]
+#    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+#    pageRef = "showcase/"
+#    weight = 20
 
-  [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-    pageRef = "more/credits/"
-    weight = 30
+#  [[languages.en.menu.shortcuts]]
+#    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+#    pageRef = "more/credits/"
+#    weight = 30
 
-  [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-tags'></i> Tags"
-    pageRef = "tags/"
-    weight = 40
+#  [[languages.en.menu.shortcuts]]
+#    name = "<i class='fas fa-fw fa-tags'></i> Tags"
+#    pageRef = "tags/"
+#    weight = 40
 
-  [[languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
-    pageRef = "categories/"
-    weight = 50
+#  [[languages.en.menu.shortcuts]]
+#    name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
+#    pageRef = "categories/"
+#    weight = 50
 
   # this is ourrr way t' showcase th' multilang settings by
   # doing autotrrranlat'n of th' english content; we are

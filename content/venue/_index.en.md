@@ -1,7 +1,6 @@
 +++
 title = "Conference Venue"
 weight = 3
-pre= "3. "
 menuTitle = "Travel"
 
 

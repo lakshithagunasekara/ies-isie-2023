@@ -1,7 +1,6 @@
 +++
-title = "Contact Us"
+title = "About"
 weight = 6
-pre= "6. "
 
 
 +++
